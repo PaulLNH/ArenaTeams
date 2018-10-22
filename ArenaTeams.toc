@@ -1,0 +1,12 @@
+## Interface: 80000
+## Title: |cff00ccffArena Teams|r
+## Notes: Displays Arena Team Names
+## Author: Paul Laird (Draaxx)
+## DefaultState: Enabled
+## SavedVariables: ArenaTeamsDB
+## Version: 0.1 alpha
+
+## libs ##
+libs/Ace
+
+ArenaTeams.lua
